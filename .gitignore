@@ -1,0 +1,6 @@
+/data/train.txt
+/data/test.txt
+/data/sub_train.txt
+/data/sub_test.txt
+/__pycache__
+/__pycache__/*
