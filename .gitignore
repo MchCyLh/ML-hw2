@@ -1,7 +1,10 @@
-/data/*
-/intermediate/*
-/output/*
+/data/*.txt
+/intermediate/*.txt
+/output/*.txt
 /src
-/src/*
-/submit/*
-
+/src/*.py
+/submit/*.csv
+!data
+!intermediate
+!output
+!submit
